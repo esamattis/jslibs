@@ -8,6 +8,7 @@ This is basically my picks from the [jswiki](https://github.com/bebraw/jswiki/wi
 
   * Notifications/lighboxes
     * http://needim.github.com/noty/
+    * Tooltips http://onehackoranother.com/projects/jquery/tipsy/
   * Calendar
     * https://github.com/ChiperSoft/Kalendae
   * Slides
