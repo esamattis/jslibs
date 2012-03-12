@@ -41,3 +41,8 @@ This is basically my picks from random blogs and [jswiki](https://github.com/beb
     * https://github.com/polotek/procstreams
   * i18n
     * http://jamuhl.github.com/i18next-node/
+  * rm -fr https://github.com/isaacs/rimraf
+  * mkdir -p https://github.com/substack/node-mkdirp
+  * tempfiles https://github.com/bruce/node-temp
+  * Command options https://github.com/visionmedia/commander.js
+  * Ascii progress bars https://github.com/substack/node-multimeter
