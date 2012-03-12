@@ -52,3 +52,4 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
   * Posix https://github.com/melor/node-posix
   * Args parser https://github.com/substack/node-optimist
   * Shell colors https://github.com/Marak/colors.js
+  * MIME type mapping https://github.com/bentomas/node-mime
