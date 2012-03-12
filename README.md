@@ -46,3 +46,4 @@ This is basically my picks from random blogs and [jswiki](https://github.com/beb
   * tempfiles https://github.com/bruce/node-temp
   * Command options https://github.com/visionmedia/commander.js
   * Ascii progress bars https://github.com/substack/node-multimeter
+  * Posix https://github.com/melor/node-posix
