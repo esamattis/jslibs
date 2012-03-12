@@ -15,8 +15,11 @@ This is basically my picks from the [jswiki](https://github.com/bebraw/jswiki/wi
     * http://arshaw.com/xdate/
   * Slides
     * https://github.com/bartaz/impress.js/
-
-
+  * @mentions http://daniel-zahariev.github.com/jquery-textntags/
+  * Tags inputs
+    * https://github.com/jstayton/jquery-manifest
+    * http://harvesthq.github.com/chosen/
+ 
 
 
 ## Node.JS
