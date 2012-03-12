@@ -1,4 +1,3 @@
-
 # Collection of nice JSLibs
 
 My Github Watch list is too crowded and unorganized.
@@ -14,6 +13,8 @@ This is basically my picks from the [jswiki](https://github.com/bebraw/jswiki/wi
   * Date/time
     * http://momentjs.com/
     * http://arshaw.com/xdate/
+  * Slides
+    * https://github.com/bartaz/impress.js/
 
 
 
