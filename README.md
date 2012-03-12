@@ -37,8 +37,7 @@ This is basically my picks from random blogs and [jswiki](https://github.com/beb
 ## Node.JS
 
 
-  * Shell
-    * https://github.com/polotek/procstreams
+  * Shell scripting help https://github.com/polotek/procstreams
   * i18n
     * http://jamuhl.github.com/i18next-node/
   * rm -fr https://github.com/isaacs/rimraf
