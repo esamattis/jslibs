@@ -21,6 +21,7 @@ This is basically my picks from the [jswiki](https://github.com/bebraw/jswiki/wi
     * http://harvesthq.github.com/chosen/
   *  Loading animations
     *  http://fgnass.github.com/spin.js/
+  *  Colors https://github.com/eligrey/color.js
  
 
 
