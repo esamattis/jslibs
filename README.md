@@ -1,6 +1,10 @@
 # Collection of nice JSLibs
 
-This is basically my picks from random blogs and [jswiki](https://github.com/bebraw/jswiki/wiki).
+My picks of promising/useful Javascript libraries from random blogs.
+
+
+Basically this is my personal [jswiki](https://github.com/bebraw/jswiki/wiki).
+
 
 
 ## Browser
