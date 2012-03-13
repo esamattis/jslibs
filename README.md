@@ -53,3 +53,4 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
   * Git
     * ruby-git port https://github.com/christkv/node-git
     * git-fs https://github.com/creationix/node-git
+  * Watch directories https://github.com/mikeal/watch
