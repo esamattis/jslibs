@@ -27,6 +27,7 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
     * http://code.google.com/p/flot/
   * i18n
     * http://www.zomeoff.com/jsin/
+  * Cookies https://github.com/ainformatico/jecookie
 
 ## Generic
 
