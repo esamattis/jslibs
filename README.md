@@ -43,10 +43,11 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
   * rm -fr https://github.com/isaacs/rimraf
   * mkdir -p https://github.com/substack/node-mkdirp
   * tempfiles https://github.com/bruce/node-temp
-  * Command options https://github.com/visionmedia/commander.js
+  * Command options 
+    * https://github.com/visionmedia/commander.js
+    * https://github.com/substack/node-optimist
   * Ascii progress bars https://github.com/substack/node-multimeter
   * Posix https://github.com/melor/node-posix
-  * Args parser https://github.com/substack/node-optimist
   * Shell colors https://github.com/Marak/colors.js
   * MIME type mapping https://github.com/bentomas/node-mime
   * Git
