@@ -54,3 +54,6 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
   * Args parser https://github.com/substack/node-optimist
   * Shell colors https://github.com/Marak/colors.js
   * MIME type mapping https://github.com/bentomas/node-mime
+  * Git
+    * ruby-git port https://github.com/christkv/node-git
+    * git-fs https://github.com/creationix/node-git
