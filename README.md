@@ -12,21 +12,17 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
   * Notifications/lighboxes
     * http://needim.github.com/noty/
     * Tooltips http://onehackoranother.com/projects/jquery/tipsy/
-  * Calendar
-    * https://github.com/ChiperSoft/Kalendae
-  * Slides
-    * https://github.com/bartaz/impress.js/
+  * Calendar https://github.com/ChiperSoft/Kalendae
+  * Slides https://github.com/bartaz/impress.js/
   * @mentions http://daniel-zahariev.github.com/jquery-textntags/
   * Tags inputs
     * https://github.com/jstayton/jquery-manifest
     * http://harvesthq.github.com/chosen/
-  *  Loading animations
-    *  http://fgnass.github.com/spin.js/
+  *  Loading animations http://fgnass.github.com/spin.js/
   * Graphs
     * http://oesmith.github.com/morris.js/
     * http://code.google.com/p/flot/
-  * i18n
-    * http://www.zomeoff.com/jsin/
+  * i18n http://www.zomeoff.com/jsin/
   * Cookies https://github.com/ainformatico/jecookie
 
 ## Generic
@@ -43,8 +39,7 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
 
 
   * Shell scripting help https://github.com/polotek/procstreams
-  * i18n
-    * http://jamuhl.github.com/i18next-node/
+  * i18n http://jamuhl.github.com/i18next-node/
   * rm -fr https://github.com/isaacs/rimraf
   * mkdir -p https://github.com/substack/node-mkdirp
   * tempfiles https://github.com/bruce/node-temp
