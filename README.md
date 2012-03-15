@@ -56,3 +56,4 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
     * git-fs https://github.com/creationix/node-git
     * libgit2 bindings https://github.com/tbranyen/nodegit
   * Watch directories https://github.com/mikeal/watch
+  * File uploads https://github.com/felixge/node-formidable
