@@ -35,6 +35,12 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
   * URI parsing
     * http://blog.stevenlevithan.com/archives/parseuri
     * https://github.com/medialize/URI.js
+  * Testing
+    * https://github.com/visionmedia/mocha
+    * Assert http://chaijs.com/
+    * Mocks http://sinonjs.org/
+  
+  
 
 ## Node.JS
 
