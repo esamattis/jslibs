@@ -64,3 +64,6 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
   * Watch directories https://github.com/mikeal/watch
   * File uploads https://github.com/felixge/node-formidable
   * pseudo terminals https://github.com/chjj/pty.js/
+  * Static site generators
+    * https://github.com/jnordberg/wintersmith
+    * https://github.com/bevry/docpad
