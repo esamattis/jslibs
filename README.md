@@ -67,3 +67,6 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
   * Static site generators
     * https://github.com/jnordberg/wintersmith
     * https://github.com/bevry/docpad
+  * Daemon
+    * https://github.com/nodejitsu/forever
+    * Used by forever https://github.com/indexzero/daemon.node
