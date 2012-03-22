@@ -43,6 +43,7 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
     * https://github.com/visionmedia/mocha
     * Assert http://chaijs.com/
     * Mocks http://sinonjs.org/
+  * Markdown https://github.com/chjj/marked
   
   
 
