@@ -23,6 +23,7 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
     * http://oesmith.github.com/morris.js/
     * http://code.google.com/p/flot/
     * http://humblesoftware.com/flotr2/
+    * Networks http://sigmajs.org/
   * i18n http://www.zomeoff.com/jsin/
   * Cookies https://github.com/ainformatico/jecookie
   * Backbone
