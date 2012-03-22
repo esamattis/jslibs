@@ -25,6 +25,9 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
     * http://humblesoftware.com/flotr2/
   * i18n http://www.zomeoff.com/jsin/
   * Cookies https://github.com/ainformatico/jecookie
+  * Backbone
+    * https://github.com/derickbailey/backbone.marionette
+    * https://github.com/tbranyen/backbone.layoutmanager
 
 ## Generic
 
