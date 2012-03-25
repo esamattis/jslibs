@@ -24,6 +24,7 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
     * http://code.google.com/p/flot/
     * http://humblesoftware.com/flotr2/
     * Networks http://sigmajs.org/
+    * Linechart http://dejavis.org/linechart
   * i18n http://www.zomeoff.com/jsin/
   * Cookies https://github.com/ainformatico/jecookie
   * Backbone
