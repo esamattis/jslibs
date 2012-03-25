@@ -45,6 +45,7 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
     * Assert http://chaijs.com/
     * Mocks http://sinonjs.org/
   * Markdown https://github.com/chjj/marked
+  * Binary https://github.com/Benvie/reified
   
   
 
