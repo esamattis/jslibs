@@ -31,6 +31,7 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
     * https://github.com/derickbailey/backbone.marionette
     * https://github.com/tbranyen/backbone.layoutmanager
   * Touch http://eightmedia.github.com/hammer.js/
+  * Text ranges https://github.com/Gottox/jQRange
 
 ## Generic
 
