@@ -32,6 +32,8 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
     * https://github.com/tbranyen/backbone.layoutmanager
   * Touch http://eightmedia.github.com/hammer.js/
   * Text ranges https://github.com/Gottox/jQRange
+  * IndexDB
+    * node-redis api http://gazeljs.org/
 
 ## Generic
 
