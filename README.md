@@ -81,3 +81,5 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
   * Daemon
     * https://github.com/nodejitsu/forever
     * Used by forever https://github.com/indexzero/daemon.node
+  * Cluster
+    * Volatile store https://github.com/fent/clusterhub
