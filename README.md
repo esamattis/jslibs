@@ -34,6 +34,8 @@ Basically this is my personal version of [jswiki](https://github.com/bebraw/jswi
   * Text ranges https://github.com/Gottox/jQRange
   * IndexDB
     * node-redis api http://gazeljs.org/
+    * CouchDB http://arandomurl.com/2012/03/27/pouchdb-is-couchdb-in-the-browser.html
+    * http://westcoastlogic.com/lawnchair/
 
 ## Generic
 
