@@ -3,7 +3,7 @@
 My picks of promising/useful Javascript libraries from random blogs.
 
 
-Basically this is my personal version of [jswiki](https://github.com/bebraw/jswiki/wiki).
+Basically this is my personal version of [jswiki](http://jswiki.org/).
 
 
 
