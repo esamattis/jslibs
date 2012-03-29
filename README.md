@@ -18,7 +18,8 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Tags inputs
     * https://github.com/jstayton/jquery-manifest
     * http://harvesthq.github.com/chosen/
-  *  Loading animations http://fgnass.github.com/spin.js/
+    * Filtering http://luis-almeida.github.com/filtrify/
+  * Loading animations http://fgnass.github.com/spin.js/
   * Graphs
     * http://oesmith.github.com/morris.js/
     * http://code.google.com/p/flot/
