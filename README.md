@@ -31,15 +31,13 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Backbone
     * https://github.com/derickbailey/backbone.marionette
     * https://github.com/tbranyen/backbone.layoutmanager
+    * https://github.com/addyosmani/backbone.paginator
   * Touch http://eightmedia.github.com/hammer.js/
   * Text ranges https://github.com/Gottox/jQRange
   * IndexDB
     * node-redis api http://gazeljs.org/
     * CouchDB http://arandomurl.com/2012/03/27/pouchdb-is-couchdb-in-the-browser.html
     * http://westcoastlogic.com/lawnchair/
-  * Backbone.js
-    * https://github.com/addyosmani/backbone.paginator
-    * https://github.com/tbranyen/backbone.layoutmanager
 
 ## Generic
 
