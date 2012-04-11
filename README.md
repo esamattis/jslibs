@@ -40,6 +40,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * node-redis api http://gazeljs.org/
     * CouchDB http://arandomurl.com/2012/03/27/pouchdb-is-couchdb-in-the-browser.html
     * http://westcoastlogic.com/lawnchair/
+  * Syntax http://craig.is/making/rainbows
 
 ## Generic
 
