@@ -27,13 +27,14 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * Networks http://sigmajs.org/
     * Linechart http://dejavis.org/linechart
     * http://mbostock.github.com/d3/
-    * http://g.raphaeljs.com/
+    * Route params http://g.raphaeljs.com/
   * i18n http://www.zomeoff.com/jsin/
   * Cookies https://github.com/ainformatico/jecookie
   * Backbone
     * https://github.com/derickbailey/backbone.marionette
     * https://github.com/tbranyen/backbone.layoutmanager
-    * https://github.com/addyosmani/backbone.paginator
+    * Pagination https://github.com/addyosmani/backbone.paginator
+    * https://github.com/rtsinani/colonne
   * Touch http://eightmedia.github.com/hammer.js/
   * Text ranges https://github.com/Gottox/jQRange
   * IndexDB
