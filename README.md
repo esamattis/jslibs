@@ -91,7 +91,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * Used by forever https://github.com/indexzero/daemon.node
   * Cluster
     * Volatile store https://github.com/fent/clusterhub
-  * Unix udb https://github.com/bnoordhuis/node-unix-dgram
+  * Unix udp https://github.com/bnoordhuis/node-unix-dgram
   * Logging
     * https://github.com/indexzero/winston-syslog/blob/master/lib/winston-syslog.js
   * Async https://github.com/creationix/safereturn
