@@ -34,7 +34,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/derickbailey/backbone.marionette
     * https://github.com/tbranyen/backbone.layoutmanager
     * Pagination https://github.com/addyosmani/backbone.paginator
-    * https://github.com/rtsinani/colonne
+    * Params to routes https://github.com/rtsinani/colonne
   * Touch http://eightmedia.github.com/hammer.js/
   * Text ranges https://github.com/Gottox/jQRange
   * IndexDB
