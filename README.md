@@ -27,7 +27,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * Networks http://sigmajs.org/
     * Linechart http://dejavis.org/linechart
     * http://mbostock.github.com/d3/
-    * Route params http://g.raphaeljs.com/
+    * http://g.raphaeljs.com/
   * i18n http://www.zomeoff.com/jsin/
   * Cookies https://github.com/ainformatico/jecookie
   * Backbone
