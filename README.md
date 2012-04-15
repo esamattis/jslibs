@@ -94,5 +94,6 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Unix udb https://github.com/bnoordhuis/node-unix-dgram
   * Logging
     * https://github.com/indexzero/winston-syslog/blob/master/lib/winston-syslog.js
+  * Async https://github.com/creationix/safereturn
 
 
