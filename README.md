@@ -98,3 +98,11 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Async https://github.com/creationix/safereturn
 
 
+## Design
+
+  * http://www.getskeleton.com/
+  * http://stuffandnonsense.co.uk/projects/320andup/
+  * http://foundation.zurb.com/
+  * http://semantic.gs/
+  * http://www.columnal.com/
+  * http://cssgrid.net/
