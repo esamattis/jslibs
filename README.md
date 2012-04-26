@@ -35,7 +35,11 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/tbranyen/backbone.layoutmanager
     * Pagination https://github.com/addyosmani/backbone.paginator
     * Params to routes https://github.com/rtsinani/colonne
-  * Touch http://eightmedia.github.com/hammer.js/
+  * Touch
+    * http://eightmedia.github.com/hammer.js/
+    * http://mwbrooks.github.com/thumbs.js/
+    * https://github.com/cheeaun/tappable
+    * https://github.com/alexgibson/tap.js
   * Text ranges https://github.com/Gottox/jQRange
   * IndexDB
     * node-redis api http://gazeljs.org/
