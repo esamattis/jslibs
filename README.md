@@ -99,6 +99,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Unix udp https://github.com/bnoordhuis/node-unix-dgram
   * Logging
     * https://github.com/indexzero/winston-syslog/blob/master/lib/winston-syslog.js
+    * "syslog.h" bindings for node.js https://github.com/tblobaum/rconsole
   * Async https://github.com/creationix/safereturn
 
 
