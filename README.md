@@ -47,6 +47,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://westcoastlogic.com/lawnchair/
   * Syntax http://craig.is/making/rainbows
   * Element/tab visibility https://github.com/ai/visibility.js
+  * WYSIWYG https://github.com/xing/wysihtml5
 
 ## Generic
 
