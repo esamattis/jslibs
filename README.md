@@ -64,6 +64,11 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * Mocks http://sinonjs.org/
   * Markdown https://github.com/chjj/marked
   * Binary https://github.com/Benvie/reified
+  * Async flow
+    * https://github.com/caolan/async
+    * http://documentup.com/kriskowal/q/
+    * https://github.com/creationix/safereturn
+
   
   
 
