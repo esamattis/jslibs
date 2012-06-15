@@ -38,6 +38,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * Pagination https://github.com/addyosmani/backbone.paginator
     * Params to routes https://github.com/rtsinani/colonne
   * Touch
+    * https://github.com/borismus/pointer.js
     * http://eightmedia.github.com/hammer.js/
     * http://mwbrooks.github.com/thumbs.js/
     * https://github.com/cheeaun/tappable
