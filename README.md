@@ -48,6 +48,8 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * node-redis api http://gazeljs.org/
     * CouchDB http://arandomurl.com/2012/03/27/pouchdb-is-couchdb-in-the-browser.html
     * http://westcoastlogic.com/lawnchair/
+    * https://github.com/axemclion/IndexedDBShim
+    * http://webreflection.blogspot.fi/2012/06/asynchronous-storage-for-all-browsers.html
   * Syntax http://craig.is/making/rainbows
   * Element/tab visibility https://github.com/ai/visibility.js
   * WYSIWYG https://github.com/xing/wysihtml5
