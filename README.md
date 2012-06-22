@@ -37,6 +37,8 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/tbranyen/backbone.layoutmanager
     * Pagination https://github.com/addyosmani/backbone.paginator
     * Params to routes https://github.com/rtsinani/colonne
+    * https://github.com/addyosmani/backbone-aura
+    * https://github.com/perka/backbone-ui
   * Touch
     * https://github.com/borismus/pointer.js
     * http://eightmedia.github.com/hammer.js/
