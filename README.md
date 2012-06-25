@@ -1,4 +1,4 @@
-# Collection of nice JSLibs
+# List of Javascript libraries
 
 My picks of promising/useful Javascript libraries from random blogs.
 
