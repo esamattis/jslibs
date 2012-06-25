@@ -69,6 +69,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Testing
     * https://github.com/visionmedia/mocha
     * Assert http://chaijs.com/
+    * http://chaijs.com/plugins
     * Mocks http://sinonjs.org/
   * Markdown https://github.com/chjj/marked
   * Binary https://github.com/Benvie/reified
