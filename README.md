@@ -55,6 +55,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Syntax http://craig.is/making/rainbows
   * Element/tab visibility https://github.com/ai/visibility.js
   * WYSIWYG https://github.com/xing/wysihtml5
+  * Excel http://warpech.github.com/jquery-handsontable
   * DOM element generation http://joestelmach.github.com/laconic/
 
 ## Generic
