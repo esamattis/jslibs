@@ -101,6 +101,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * ruby-git port https://github.com/christkv/node-git
     * git-fs https://github.com/creationix/node-git
     * libgit2 bindings https://github.com/tbranyen/nodegit
+    * other libgit2 bindings https://github.com/libgit2/node-gitteh
   * Watch directories https://github.com/mikeal/watch
   * File uploads https://github.com/felixge/node-formidable
   * pseudo terminals https://github.com/chjj/pty.js/
