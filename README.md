@@ -118,6 +118,9 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/indexzero/winston-syslog/blob/master/lib/winston-syslog.js
     * "syslog.h" bindings for node.js https://github.com/tblobaum/rconsole
   * Async https://github.com/creationix/safereturn
+  * Google Cloud Messaging for Android
+    * https://github.com/h2soft/node-gcm
+    * https://github.com/ToothlessGear/node-gcm
 
 
 ## Design
