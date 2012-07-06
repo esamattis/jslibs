@@ -60,7 +60,9 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
 
 ## Generic
 
-  * Colors https://github.com/eligrey/color.js
+  * Colors
+    * https://github.com/eligrey/color.js
+    * https://github.com/One-com/one-color
   * Date/time
     * http://momentjs.com/
     * http://arshaw.com/xdate/
