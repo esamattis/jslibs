@@ -57,6 +57,9 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * WYSIWYG https://github.com/xing/wysihtml5
   * Excel http://warpech.github.com/jquery-handsontable
   * DOM element generation http://joestelmach.github.com/laconic/
+  * Tooltips
+    * http://tooltipsy.com/
+    * http://onehackoranother.com/projects/jquery/tipsy/
 
 ## Generic
 
