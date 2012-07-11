@@ -15,9 +15,10 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Calendar https://github.com/ChiperSoft/Kalendae
   * Slides https://github.com/bartaz/impress.js/
   * @mentions http://daniel-zahariev.github.com/jquery-textntags/
-  * Tags inputs
-    * https://github.com/jstayton/jquery-manifest
-    * http://harvesthq.github.com/chosen/
+  * Input fields
+    * Tags https://github.com/jstayton/jquery-manifest
+    * Large selections http://harvesthq.github.com/chosen/
+    * Large selections http://ivaynberg.github.com/select2/
     * Filtering http://luis-almeida.github.com/filtrify/
   * Loading animations http://fgnass.github.com/spin.js/
   * Graphs
