@@ -87,6 +87,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://documentup.com/kriskowal/q/
     * https://github.com/creationix/safereturn
   * Doc generator https://github.com/cbou/markdox
+  * Schemas https://github.com/molnarg/js-schema
 
   
   
