@@ -62,6 +62,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Tooltips
     * http://tooltipsy.com/
     * http://onehackoranother.com/projects/jquery/tipsy/
+  * Table of contents http://gregfranko.com/jquery.tocify.js/
 
 ## Generic
 
