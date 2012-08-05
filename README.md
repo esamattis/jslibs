@@ -12,6 +12,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Notifications/lighboxes
     * http://needim.github.com/noty/
     * Tooltips http://onehackoranother.com/projects/jquery/tipsy/
+    * Favicon hacks https://github.com/tommoor/tinycon
     * Favicon progress bar http://lipka.github.com/piecon/
   * Calendar https://github.com/ChiperSoft/Kalendae
   * Slides https://github.com/bartaz/impress.js/
