@@ -136,6 +136,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Google Cloud Messaging for Android
     * https://github.com/h2soft/node-gcm
     * https://github.com/ToothlessGear/node-gcm
+  * Workers https://github.com/visionmedia/axon
 
 
 ## Design
