@@ -92,6 +92,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Doc generator https://github.com/cbou/markdox
   * Schemas https://github.com/molnarg/js-schema
   * Pattern matching https://github.com/natefaubion/matches.js
+  * uuid https://github.com/broofa/node-uuid
 
   
   
