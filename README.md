@@ -21,6 +21,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * Tags https://github.com/jstayton/jquery-manifest
     * Large selections http://harvesthq.github.com/chosen/
     * Large selections http://ivaynberg.github.com/select2/
+    * Single Option Select Box https://github.com/gfranko/jquery.selectBoxIt.js
     * Filtering http://luis-almeida.github.com/filtrify/
   * Loading animations http://fgnass.github.com/spin.js/
   * Graphs
@@ -42,6 +43,9 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * Params to routes https://github.com/rtsinani/colonne
     * https://github.com/addyosmani/backbone-aura
     * https://github.com/perka/backbone-ui
+    * Model Validation https://github.com/gfranko/Backbone.validateAll
+  * Backbone and Require
+    * Boilerplate https://github.com/gfranko/Backbone-Require-Boilerplate
   * Touch
     * https://github.com/borismus/pointer.js
     * http://eightmedia.github.com/hammer.js/
@@ -65,7 +69,8 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://tooltipsy.com/
     * http://onehackoranother.com/projects/jquery/tipsy/
   * Table of contents http://gregfranko.com/jquery.tocify.js/
-  *  Keyboard https://github.com/madrobby/keymaster
+  * Keyboard https://github.com/madrobby/keymaster
+  * Custom Download Builder https://github.com/gfranko/DownloadBuilder.js
 
 ## Generic
 
