@@ -94,6 +94,10 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Schemas https://github.com/molnarg/js-schema
   * Pattern matching https://github.com/natefaubion/matches.js
   * uuid https://github.com/broofa/node-uuid
+  * Promises
+    * https://github.com/tildeio/rsvp.js
+    * https://github.com/cujojs/when
+    * https://github.com/kriskowal/q
 
   
   
