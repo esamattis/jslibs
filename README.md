@@ -145,6 +145,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/ToothlessGear/node-gcm
   * Workers https://github.com/visionmedia/axon
   * leveldb https://npmjs.org/package/leveldb
+  * Filesystem Watch recursive https://github.com/bevry/watchr
 
 
 ## Design
