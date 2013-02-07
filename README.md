@@ -50,6 +50,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/alexgibson/tap.js
   * Text ranges https://github.com/Gottox/jQRange
   * IndexDB
+    * https://github.com/jensarps/IDBWrapper
     * node-redis api http://gazeljs.org/
     * CouchDB http://arandomurl.com/2012/03/27/pouchdb-is-couchdb-in-the-browser.html
     * http://westcoastlogic.com/lawnchair/
