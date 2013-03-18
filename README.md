@@ -123,6 +123,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Shell colors https://github.com/Marak/colors.js
   * MIME type mapping https://github.com/bentomas/node-mime
   * Git
+    * http://www.kickstarter.com/projects/creationix/js-git
     * ruby-git port https://github.com/christkv/node-git
     * git-fs https://github.com/creationix/node-git
     * libgit2 bindings https://github.com/tbranyen/nodegit
