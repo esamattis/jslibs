@@ -148,10 +148,13 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/h2soft/node-gcm
     * https://github.com/ToothlessGear/node-gcm
   * Workers https://github.com/visionmedia/axon
-  * leveldb https://npmjs.org/package/leveldb
+  * leveldb 
+    * https://npmjs.org/package/levelup
+    * https://npmjs.org/package/leveldb
   * Filesystem Watch
     * https://github.com/bevry/watchr
     * https://github.com/shama/gaze
+  * Scraping with jquery style api https://npmjs.org/package/cheerio
 
 
 ## Design
