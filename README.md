@@ -67,6 +67,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://onehackoranother.com/projects/jquery/tipsy/
   * Table of contents http://gregfranko.com/jquery.tocify.js/
   *  Keyboard https://github.com/madrobby/keymaster
+  * offline detection http://nouincolor.com/heyoffline.js/
 
 ## Generic
 
