@@ -155,6 +155,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/bevry/watchr
     * https://github.com/shama/gaze
   * Scraping with jquery style api https://npmjs.org/package/cheerio
+  * OAuth https://github.com/Mashape/mashape-oauth
 
 
 ## Design
