@@ -31,6 +31,9 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * Linechart http://dejavis.org/linechart
     * http://mbostock.github.com/d3/
     * http://g.raphaeljs.com/
+    * http://www.chartjs.org/
+    * d3
+      * http://code.shutterstock.com/rickshaw/
   * i18n
     * http://www.zomeoff.com/jsin/
     * http://slexaxton.github.com/Jed/
