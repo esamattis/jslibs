@@ -51,6 +51,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://mwbrooks.github.com/thumbs.js/
     * https://github.com/cheeaun/tappable
     * https://github.com/alexgibson/tap.js
+    * https://github.com/ftlabs/fastclick
   * Text ranges https://github.com/Gottox/jQRange
   * IndexDB
     * https://github.com/jensarps/IDBWrapper
