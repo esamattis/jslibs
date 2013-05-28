@@ -106,6 +106,8 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/kriskowal/q
   * Caching
     * https://github.com/medikoo/memoize
+  * html in javascript "templates"
+    * https://github.com/dominictarr/hyperscript
 
   
   
