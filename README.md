@@ -72,6 +72,10 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Table of contents http://gregfranko.com/jquery.tocify.js/
   *  Keyboard https://github.com/madrobby/keymaster
   * offline detection http://nouincolor.com/heyoffline.js/
+  * Search http://lunrjs.com/
+  * es5 shims
+    * http://augmentjs.com/
+    * https://github.com/kriskowal/es5-shim
 
 ## Generic
 
