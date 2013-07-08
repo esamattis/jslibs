@@ -108,7 +108,8 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/tildeio/rsvp.js
     * https://github.com/cujojs/when
     * https://github.com/kriskowal/q
-    * https://github.com/medikoo/deferred
+    * https://github.com/medikoo/deferred (claim to be fast)
+    * https://github.com/wookiehangover/underscore.Deferred
   * Caching
     * https://github.com/medikoo/memoize
   * html in javascript "templates"
