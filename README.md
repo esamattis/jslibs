@@ -76,6 +76,8 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * es5 shims
     * http://augmentjs.com/
     * https://github.com/kriskowal/es5-shim
+  * Select dropdown
+    * http://brandwatchltd.github.io/selleckt/demo/
 
 ## Generic
 
