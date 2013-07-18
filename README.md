@@ -15,7 +15,10 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * Favicon hacks https://github.com/tommoor/tinycon
     * Favicon progress bar http://lipka.github.com/piecon/
   * Calendar https://github.com/ChiperSoft/Kalendae
-  * Slides https://github.com/bartaz/impress.js/
+  * Slides
+    * http://lab.hakim.se/reveal-js/
+    * http://imakewebthings.com/deck.js/
+    * https://github.com/bartaz/impress.js/
   * @mentions http://daniel-zahariev.github.com/jquery-textntags/
   * Input fields
     * Tags https://github.com/jstayton/jquery-manifest
