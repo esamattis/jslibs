@@ -175,7 +175,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * OAuth https://github.com/Mashape/mashape-oauth
 
 
-## Design
+## CSS
 
   * http://www.getskeleton.com/
   * http://stuffandnonsense.co.uk/projects/320andup/
@@ -185,3 +185,6 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * http://cssgrid.net/
   * http://twitter.github.com/bootstrap/
   * http://www.gumbyframework.com/
+  * Animations
+    * http://h5bp.github.io/Effeckt.css/dist/
+    * http://daneden.me/animate/
