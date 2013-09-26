@@ -114,6 +114,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/cujojs/when
     * https://github.com/kriskowal/q
     * https://github.com/medikoo/deferred (claim to be fast)
+    * https://github.com/petkaantonov/bluebird (also fast)
     * https://github.com/wookiehangover/underscore.Deferred
     * https://github.com/then/promise
   * Caching
