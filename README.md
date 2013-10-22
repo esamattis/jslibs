@@ -127,6 +127,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/medikoo/memoize
   * html in javascript "templates"
     * https://github.com/dominictarr/hyperscript
+  * Human readable file sizes http://filesizejs.com/ 
 
   
   
