@@ -27,6 +27,8 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * Large selections http://harvesthq.github.com/chosen/
     * Large selections http://ivaynberg.github.com/select2/
     * Filtering http://luis-almeida.github.com/filtrify/
+   * Lists / tables
+     * http://listjs.com/
   * Loading animations http://fgnass.github.com/spin.js/
   * Graphs
     * http://oesmith.github.com/morris.js/
