@@ -85,6 +85,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/kriskowal/es5-shim
   * Select dropdown
     * http://brandwatchltd.github.io/selleckt/demo/
+  * json pretty html format http://marianoguerra.github.io/json.human.js/
 
 ## Generic
 
