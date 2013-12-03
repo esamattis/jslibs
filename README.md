@@ -29,6 +29,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * Filtering http://luis-almeida.github.com/filtrify/
    * Lists / tables
      * http://listjs.com/
+     * http://github.hubspot.com/sortable/
   * Loading animations http://fgnass.github.com/spin.js/
   * Graphs
     * http://oesmith.github.com/morris.js/
