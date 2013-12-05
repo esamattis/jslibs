@@ -14,9 +14,10 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * Tooltips http://onehackoranother.com/projects/jquery/tipsy/
     * Favicon hacks https://github.com/tommoor/tinycon
     * Favicon progress bar http://lipka.github.com/piecon/
-  * Calendar
+  * Date pickers
     * https://github.com/ChiperSoft/Kalendae
     * http://kylestetz.github.io/CLNDR/
+    * http://amsul.ca/pickadate.js/
   * Slides
     * http://lab.hakim.se/reveal-js/
     * http://imakewebthings.com/deck.js/
