@@ -91,6 +91,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://brandwatchltd.github.io/selleckt/demo/
   * json pretty html format http://marianoguerra.github.io/json.human.js/
   * css injecting https://github.com/israelidanny/veinjs
+  * databinding / models https://github.com/classdojo/bindable.js
 
 ## Generic
 
