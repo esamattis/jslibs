@@ -190,6 +190,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Filesystem Watch
     * https://github.com/bevry/watchr
     * https://github.com/shama/gaze
+    * https://github.com/carlos8f/saw
   * Scraping with jquery style api https://npmjs.org/package/cheerio
   * OAuth https://github.com/Mashape/mashape-oauth
   * Require mocking https://github.com/thlorenz/proxyquire
