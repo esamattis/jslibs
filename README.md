@@ -135,6 +135,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * html in javascript "templates"
     * https://github.com/dominictarr/hyperscript
   * Human readable file sizes http://filesizejs.com/ 
+  * string diff https://github.com/kpdecker/jsdiff
 
   
   
