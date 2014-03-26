@@ -200,6 +200,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
 
 ## CSS
 
+  * http://fluidity.sexy/
   * http://purecss.io/
   * http://www.getskeleton.com/
   * http://stuffandnonsense.co.uk/projects/320andup/
