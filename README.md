@@ -193,6 +193,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/bevry/watchr
     * https://github.com/shama/gaze
     * https://github.com/carlos8f/saw
+    * https://www.npmjs.org/package/chokidar used by watchify
   * Scraping with jquery style api https://npmjs.org/package/cheerio
   * OAuth https://github.com/Mashape/mashape-oauth
   * Require mocking https://github.com/thlorenz/proxyquire
