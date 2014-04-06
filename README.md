@@ -215,3 +215,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://h5bp.github.io/Effeckt.css/dist/
     * http://daneden.me/animate/
   * Media Queries https://github.com/jareware/viewports
+  * http://tympanus.net/Development/ProgressButtonStyles/
+  * http://tympanus.net/Development/CreativeLoadingEffects/
+  * http://tympanus.net/Development/CreativeButtons/
+  * http://tobiasahlin.com/spinkit/
