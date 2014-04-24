@@ -71,6 +71,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://westcoastlogic.com/lawnchair/
     * https://github.com/axemclion/IndexedDBShim
     * http://webreflection.blogspot.fi/2012/06/asynchronous-storage-for-all-browsers.html
+    * https://github.com/Fluidbyte/Riggr/blob/master/src/indexed.js
   * Syntax http://craig.is/making/rainbows
   * Element/tab visibility https://github.com/ai/visibility.js
   * WYSIWYG https://github.com/xing/wysihtml5
