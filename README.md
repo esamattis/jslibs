@@ -94,6 +94,9 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * css injecting https://github.com/israelidanny/veinjs
   * databinding / models https://github.com/classdojo/bindable.js
   * progress bars http://nanobar.micronube.com/
+  * Sliders
+    * http://lokku.github.io/jquery-nstslider/
+    * https://github.com/leongersen/noUiSlider
 
 ## Generic
 
