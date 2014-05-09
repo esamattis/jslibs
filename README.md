@@ -98,6 +98,10 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://lokku.github.io/jquery-nstslider/
     * https://github.com/leongersen/noUiSlider
 
+### React
+
+  * Forms http://prometheusresearch.github.io/react-forms/
+
 ## Generic
 
   * Colors
