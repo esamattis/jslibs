@@ -99,6 +99,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Sliders
     * http://lokku.github.io/jquery-nstslider/
     * https://github.com/leongersen/noUiSlider
+  * Generate froms from json https://github.com/jdorn/json-editor
 
 ### React
 
