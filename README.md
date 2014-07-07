@@ -40,11 +40,12 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://humblesoftware.com/flotr2/
     * Networks http://sigmajs.org/
     * Linechart http://dejavis.org/linechart
-    * http://mbostock.github.com/d3/
     * http://g.raphaeljs.com/
     * http://www.chartjs.org/
-    * d3
+    * d3 http://mbostock.github.com/d3/
+      * http://nvd3.org/
       * http://code.shutterstock.com/rickshaw/
+      * http://visible.io/
   * i18n
     * http://www.zomeoff.com/jsin/
     * http://slexaxton.github.com/Jed/
