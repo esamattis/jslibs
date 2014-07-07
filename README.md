@@ -108,6 +108,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Forms http://prometheusresearch.github.io/react-forms
   * Data https://github.com/mquan/cortex/
   * Bootstrap http://react-bootstrap.github.io/
+  * Router https://github.com/rpflorence/react-nested-router
 
 ## Generic
 
