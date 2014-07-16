@@ -109,6 +109,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Data https://github.com/mquan/cortex/
   * Bootstrap http://react-bootstrap.github.io/
   * Router https://github.com/rpflorence/react-nested-router
+  * http://khan.github.io/react-components/
 
 ## Generic
 
