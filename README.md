@@ -79,7 +79,9 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * WYSIWYG
     * https://github.com/xing/wysihtml5
     * http://quilljs.com/
-  * Markdown editor http://oscargodson.github.com/EpicEditor/
+  * Markdown editors
+    * http://oscargodson.github.com/EpicEditor/
+    * https://github.com/lepture/editor
   * Excel http://warpech.github.com/jquery-handsontable
   * DOM element generation http://joestelmach.github.com/laconic/
   * Tooltips
