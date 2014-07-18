@@ -104,6 +104,9 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://lokku.github.io/jquery-nstslider/
     * https://github.com/leongersen/noUiSlider
   * Generate froms from json https://github.com/jdorn/json-editor
+  * Form validation
+    * https://github.com/ryanseddon/H5F
+    * http://afarkas.github.io/webshim/demos/#Forms
 
 ### React
 
