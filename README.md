@@ -47,6 +47,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
       * http://code.shutterstock.com/rickshaw/
       * http://visible.io/
       * http://c3js.org/
+      * https://square.github.io/cubism/
   * i18n
     * http://www.zomeoff.com/jsin/
     * http://slexaxton.github.com/Jed/
