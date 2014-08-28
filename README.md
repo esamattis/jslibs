@@ -48,6 +48,8 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
       * http://visible.io/
       * http://c3js.org/
       * https://square.github.io/cubism/
+      * http://misoproject.com/d3-chart/
+      * http://dimplejs.org/
   * i18n
     * http://www.zomeoff.com/jsin/
     * http://slexaxton.github.com/Jed/
