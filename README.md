@@ -42,6 +42,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * Linechart http://dejavis.org/linechart
     * http://g.raphaeljs.com/
     * http://www.chartjs.org/
+    * https://github.com/gionkunz/chartist-js
     * d3 http://mbostock.github.com/d3/
       * http://nvd3.org/
       * http://code.shutterstock.com/rickshaw/
