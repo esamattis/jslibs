@@ -250,3 +250,4 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * http://tympanus.net/Development/CreativeButtons/
   * http://tobiasahlin.com/spinkit/
   * http://blokkfont.com/
+  * Center stuff http://css-tricks.com/centering-css-complete-guide/
