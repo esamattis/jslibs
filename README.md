@@ -124,6 +124,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
 
 ## Generic
 
+  * Ajax / node.js http https://github.com/mzabriskie/axios
   * Colors
     * https://github.com/eligrey/color.js
     * https://github.com/One-com/one-color
