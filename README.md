@@ -258,6 +258,14 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Center stuff http://css-tricks.com/centering-css-complete-guide/
 
 
+## Front-end automation/testing
+
+  * http://dalekjs.com/
+  * https://github.com/chenglou/node-huxley/
+  * http://nightwatchjs.org/
+  * http://www.nightmarejs.org/
+  * http://casperjs.org/
+
 # Others
 
 https://github.com/sindresorhus/awesome-nodejs
