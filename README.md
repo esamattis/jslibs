@@ -265,6 +265,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * http://nightwatchjs.org/
   * http://www.nightmarejs.org/
   * http://casperjs.org/
+  * https://github.com/admc/wd
 
 # Others
 
