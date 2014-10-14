@@ -125,7 +125,10 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/mquan/cortex/
 
 ## Generic
-
+  * Functional tools
+    * https://github.com/nullobject/fkit
+    * http://ramda.github.io/ramdocs/docs/
+    * http://danieltao.com/lazy.js/
   * Ajax / node.js http https://github.com/mzabriskie/axios
   * Colors
     * https://github.com/eligrey/color.js
