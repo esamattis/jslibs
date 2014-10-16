@@ -272,4 +272,5 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
 
 # Others
 
-https://github.com/sindresorhus/awesome-nodejs
+* https://github.com/sindresorhus/awesome-nodejs
+* https://github.com/enaqx/awesome-react
