@@ -179,7 +179,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
 
 ## Node.JS
 
-
+  * Avoiding ../../../ https://gist.github.com/branneman/8048520
   * Shell scripting help https://github.com/polotek/procstreams
   * Shell automation https://github.com/jprichardson/node-suppose
   * Portable Unix shell commands https://github.com/arturadib/shelljs
