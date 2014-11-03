@@ -117,7 +117,9 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
 ### React
 
   * Forms http://prometheusresearch.github.io/react-forms
-  * Bootstrap http://react-bootstrap.github.io/
+  * Widgets
+    * Bootstrap http://react-bootstrap.github.io/
+    * http://jquense.github.io/react-widgets/docs/#
   * Router https://github.com/rpflorence/react-nested-router
   * http://khan.github.io/react-components/
   * Data
