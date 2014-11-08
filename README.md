@@ -155,7 +155,9 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://documentup.com/kriskowal/q/
     * https://github.com/creationix/safereturn
   * Doc generator https://github.com/cbou/markdox
-  * Schemas https://github.com/molnarg/js-schema
+  * Schemas/validation
+    * https://github.com/molnarg/js-schema
+    * https://github.com/gcanti/tcomb-validation
   * Pattern matching https://github.com/natefaubion/matches.js
   * uuid https://github.com/broofa/node-uuid
   * Promises
