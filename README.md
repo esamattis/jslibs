@@ -238,6 +238,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Scraping with jquery style api https://npmjs.org/package/cheerio
   * OAuth https://github.com/Mashape/mashape-oauth
   * Require mocking https://github.com/thlorenz/proxyquire
+  * socket.io http://drewblaisdell.github.io/monitor.io/
 
 
 ## CSS
