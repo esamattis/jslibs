@@ -127,6 +127,12 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/dustingetz/react-cursor/
     * https://github.com/mquan/cortex/
 
+## HTML5 on desktop
+
+  * https://github.com/breach/thrust/
+  * https://github.com/rogerwang/node-webkit
+  * https://github.com/atom/atom-shell
+
 ## Generic
   * Functional tools
     * https://github.com/nullobject/fkit
