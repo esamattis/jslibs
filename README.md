@@ -128,6 +128,14 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Data
     * https://github.com/dustingetz/react-cursor/
     * https://github.com/mquan/cortex/
+  * Flux
+    * https://github.com/facebook/flux 
+    * https://github.com/spoike/refluxjs
+    * https://github.com/BinaryMuse/fluxxor http://fluxxor.com/
+    * https://github.com/deloreanjs/delorean http://deloreanjs.com/
+    * https://github.com/kenwheeler/mcfly  http://kenwheeler.github.io/mcfly/
+    * https://github.com/foss-haas/fynx http://foss-haas.github.io/fynx/
+  
 
 ## HTML5 on desktop
 
