@@ -51,6 +51,8 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
       * https://square.github.io/cubism/
       * http://misoproject.com/d3-chart/
       * http://dimplejs.org/
+      * https://github.com/NathanEpstein/D3xter
+      * timeseries http://metricsgraphicsjs.org/
   * i18n
     * http://www.zomeoff.com/jsin/
     * http://slexaxton.github.com/Jed/
