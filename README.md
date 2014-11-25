@@ -145,6 +145,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
 
 ## Generic
   * Functional tools
+    * https://github.com/tjmehta/101 (modular!)
     * https://github.com/nullobject/fkit
     * http://ramda.github.io/ramdocs/docs/
     * http://danieltao.com/lazy.js/
