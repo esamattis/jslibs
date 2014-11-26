@@ -135,6 +135,8 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/deloreanjs/delorean http://deloreanjs.com/
     * https://github.com/kenwheeler/mcfly  http://kenwheeler.github.io/mcfly/
     * https://github.com/foss-haas/fynx http://foss-haas.github.io/fynx/
+    * https://github.com/yoshuawuyts/barracks
+    * https://github.com/jmreidy/fluxy
   
 
 ## HTML5 on desktop
