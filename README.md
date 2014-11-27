@@ -122,9 +122,9 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Widgets
     * Bootstrap http://react-bootstrap.github.io/
     * http://jquense.github.io/react-widgets/docs/# (Has date picker!)
+    * http://khan.github.io/react-components/
   * Router https://github.com/rpflorence/react-nested-router
   * Date picker http://jslog.com/react-date-picker/
-  * http://khan.github.io/react-components/
   * Data
     * https://github.com/dustingetz/react-cursor/
     * https://github.com/mquan/cortex/
@@ -146,6 +146,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * https://github.com/atom/atom-shell
 
 ## Generic
+
   * Functional tools
     * https://github.com/tjmehta/101 (modular!)
     * https://github.com/nullobject/fkit
@@ -300,3 +301,19 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
 
 * https://github.com/sindresorhus/awesome-nodejs
 * https://github.com/enaqx/awesome-react
+
+# Tools
+
+not libraries
+
+## regexp
+
+  * http://www.regexr.com/
+  * https://regularish.gavinhungry.io/
+  * http://www.regexper.com/
+  * https://www.debuggex.com/
+  * http://regex101.com/
+ 
+## JSON editing
+
+  * https://www.jsoneditoronline.org/
