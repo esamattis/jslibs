@@ -137,6 +137,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/foss-haas/fynx http://foss-haas.github.io/fynx/
     * https://github.com/yoshuawuyts/barracks
     * https://github.com/jmreidy/fluxy
+    * https://github.com/dfrnswrth/miniflux
   
 
 ## HTML5 on desktop
