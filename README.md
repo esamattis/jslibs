@@ -85,7 +85,9 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * WYSIWYG
     * https://github.com/xing/wysihtml5
     * http://quilljs.com/
+      * ot support?
     * https://github.com/neilj/squire http://neilj.github.io/Squire/
+    * https://github.com/Voog/wysihtml/ http://wysihtml.com/
   * Markdown editors
     * http://oscargodson.github.com/EpicEditor/
     * https://github.com/lepture/editor
