@@ -126,6 +126,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://khan.github.io/react-components/
   * Router https://github.com/rpflorence/react-nested-router
   * Date picker http://jslog.com/react-date-picker/
+    * https://github.com/react-component/calendar
   * Data
     * https://github.com/dustingetz/react-cursor/
     * https://github.com/mquan/cortex/
