@@ -35,6 +35,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://fgnass.github.com/spin.js/
     * http://tobiasahlin.com/spinkit/
   * Graphs
+    * https://github.com/ecomfe/echarts https://ecomfe.github.io/echarts/index-en.html
     * http://oesmith.github.com/morris.js/
     * http://code.google.com/p/flot/
     * http://humblesoftware.com/flotr2/
