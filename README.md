@@ -14,6 +14,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * Tooltips http://onehackoranother.com/projects/jquery/tipsy/
     * Favicon hacks https://github.com/tommoor/tinycon
     * Favicon progress bar http://lipka.github.com/piecon/
+  * diagramming http://www.jointjs.com/  https://github.com/DavidDurman/joint
   * Date pickers
     * https://github.com/ChiperSoft/Kalendae
     * http://kylestetz.github.io/CLNDR/
@@ -143,6 +144,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/yoshuawuyts/barracks
     * https://github.com/jmreidy/fluxy
     * https://github.com/dfrnswrth/miniflux
+  
   
 
 ## HTML5 on desktop
