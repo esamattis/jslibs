@@ -14,7 +14,6 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * Tooltips http://onehackoranother.com/projects/jquery/tipsy/
     * Favicon hacks https://github.com/tommoor/tinycon
     * Favicon progress bar http://lipka.github.com/piecon/
-  * diagramming http://www.jointjs.com/  https://github.com/DavidDurman/joint
   * Date pickers
     * https://github.com/ChiperSoft/Kalendae
     * http://kylestetz.github.io/CLNDR/
@@ -45,6 +44,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://g.raphaeljs.com/
     * http://www.chartjs.org/
     * https://github.com/gionkunz/chartist-js
+    * diagramming http://www.jointjs.com/  https://github.com/DavidDurman/joint
     * d3 http://mbostock.github.com/d3/
       * http://nvd3.org/
       * http://code.shutterstock.com/rickshaw/
