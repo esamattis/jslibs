@@ -207,6 +207,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Human readable file sizes http://filesizejs.com/ 
   * string diff https://github.com/kpdecker/jsdiff
   * number formatting http://numeraljs.com/
+  * Mongo query filters in js https://github.com/kofrasa/mingo
 
   
   
