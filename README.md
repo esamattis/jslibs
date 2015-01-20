@@ -124,10 +124,11 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
 ### React
 
   * Forms http://prometheusresearch.github.io/react-forms
-  * Widgets
+  * Widgets sets
     * Bootstrap http://react-bootstrap.github.io/
     * http://jquense.github.io/react-widgets/docs/# (Has date picker!)
     * http://khan.github.io/react-components/
+  * Select widget http://jedwatson.github.io/react-select/
   * Router https://github.com/rpflorence/react-nested-router
   * Date picker http://jslog.com/react-date-picker/
     * https://github.com/react-component/calendar
