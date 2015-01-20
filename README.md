@@ -129,7 +129,9 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * http://jquense.github.io/react-widgets/docs/# (Has date picker!)
     * http://khan.github.io/react-components/
   * Select widget http://jedwatson.github.io/react-select/
-  * Tables https://github.com/dynamictyped/Griddle/ https://dynamictyped.github.io/Griddle/
+  * Tables
+    * https://github.com/dynamictyped/Griddle/ https://dynamictyped.github.io/Griddle/
+    * https://github.com/glittershark/reactable http://glittershark.github.io/reactable/
   * Router https://github.com/rpflorence/react-nested-router
   * Date picker http://jslog.com/react-date-picker/
     * https://github.com/react-component/calendar
