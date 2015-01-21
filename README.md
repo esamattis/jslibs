@@ -138,6 +138,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * Data
     * https://github.com/dustingetz/react-cursor/
     * https://github.com/mquan/cortex/
+  * D3 https://github.com/esbullington/react-d3
   * Flux
     * https://github.com/facebook/flux 
     * https://github.com/spoike/refluxjs
