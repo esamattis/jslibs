@@ -151,6 +151,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/dfrnswrth/miniflux
     * http://martyjs.org/ https://github.com/jhollingworth/marty
     * https://github.com/kjda/ReactFlux
+    * https://github.com/yahoo/fluxible
   
   
   
