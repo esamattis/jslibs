@@ -154,7 +154,8 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
     * https://github.com/yahoo/fluxible
     * http://www.tuxedojs.org/ (full framework)
     * https://github.com/goatslacker/alt designed for isomorphism?
-      * https://github.com/goatslacker/iso 
+      * https://github.com/goatslacker/iso
+    * https://github.com/appsforartists/ambidex isomorphic using Reflux? 
   
   
   
