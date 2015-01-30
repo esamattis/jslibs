@@ -221,6 +221,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
   * string diff https://github.com/kpdecker/jsdiff
   * number formatting http://numeraljs.com/
   * Mongo query filters in js https://github.com/kofrasa/mingo
+  * On the wire patches for Immutablejs https://github.com/elierotenberg/remutable
 
   
   
