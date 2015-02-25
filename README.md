@@ -298,6 +298,8 @@ http://mbostock.github.com/d3/
 
 ## Node.JS
 
+  * require() aware reload https://github.com/fgnass/node-dev
+    * https://github.com/dai-shi/easy-livereload
   * Avoiding ../../../ https://gist.github.com/branneman/8048520
   * Shell scripting help https://github.com/polotek/procstreams
   * Shell automation https://github.com/jprichardson/node-suppose
