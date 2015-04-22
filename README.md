@@ -227,7 +227,8 @@ http://mbostock.github.com/d3/
     * https://github.com/goatslacker/iso
 * https://github.com/appsforartists/ambidex isomorphic using Reflux?
 * https://github.com/acdlite/flummox
-* https://github.com/elierotenberg/react-nexus
+* https://github.com/elierotenberg/react-nexu
+* https://github.com/addthis/fluxthis https://fluxthis.io/#/
 
 
 
