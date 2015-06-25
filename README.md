@@ -223,7 +223,7 @@ http://mbostock.github.com/d3/
 * https://github.com/kjda/ReactFlux
 * https://github.com/yahoo/fluxible
 * http://www.tuxedojs.org/ (full framework)
-* https://github.com/goatslacker/alt designed for isomorphism?
+* https://github.com/goatslacker/alt
     * https://github.com/goatslacker/iso
 * https://github.com/appsforartists/ambidex isomorphic using Reflux?
 * https://github.com/acdlite/flummox
