@@ -229,6 +229,15 @@ http://mbostock.github.com/d3/
 * https://github.com/acdlite/flummox
 * https://github.com/elierotenberg/react-nexu
 * https://github.com/addthis/fluxthis https://fluxthis.io/#/
+* https://github.com/LeanKit-Labs/lux.js
+* https://github.com/vigetlabs/microcosm
+* https://github.com/rpominov/fluce
+* https://github.com/threepointone/disto
+* https://github.com/goatslacker/microflux
+* https://github.com/glenjamin/fluctuations
+* https://github.com/optimizely/nuclear-js
+* https://github.com/gaearon/redux
+
 
 
 
