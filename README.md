@@ -56,6 +56,7 @@ Basically this is my personal version of [jswiki](http://jswiki.org/).
 * http://www.chartjs.org/
 * https://github.com/gionkunz/chartist-js
 * diagramming http://www.jointjs.com/  https://github.com/DavidDurman/joint
+* http://dygraphs.com/ for huge data sets
 
 
 #### d3
